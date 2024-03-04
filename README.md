@@ -112,6 +112,6 @@ Meetings shall be held weekly at a time decided upon by the officers at the star
 
 In order for an amendment to be made to the constitution, a motion must be made at the end of a regularly scheduled meeting. A quorum must be present for an amendment vote to take place, and a 2/3 vote is required for the amendment to be added. If a quorum is not present, the amendment will be laid on the table until a quorum is obtained. This constitution shall be reviewed and revised if necessary every academic year during an election meeting.
 
-#### Article 9.1: New Amendment Procedure
+#### Article 9.1: Alternate Amendment Procedure
 
 Amendments can be proposed by opening a pull request on the club's constitution repository. The proposed amendment will be announced before the next meeting via email and at the next meeting. It will be voted on by approving the pull request or requesting changes. A 2/3 approval rate is required for the amendment to be added. Before merging, pull requests must be left open for at least one week after the meeting it was announced at.
