@@ -39,11 +39,13 @@ No dues shall be issued unless the budget does not cover expenses. The current a
     -   Keep and report all financial records
     -   Create a budget for each academic year
     -   Organize fundraising events
+      
 -   Secretary
     -   Keep track of scheduling upcoming events
     -   Assist the president in preparing agendas
     -   Email information to club members
--   Webmaster
+      
+-   Webmaster/ Technical Lead
     -   This position is optional. If it is not filled, the duties will be given to the secretary.
     -   If the club has a website then the webmaster is in charge of updating it with upcoming event information and any other information that is deemed relevant.
 -   Outreach Lead
@@ -51,41 +53,10 @@ No dues shall be issued unless the budget does not cover expenses. The current a
     -   Reaching out to companies and other organizations to find potential speakers, sponsors, and judges for club events.
     -   Utilize social media to highlight upcoming club events and showcase our recent activities.
     -   Posting flyers around campus for club events.
-
-#### Article 5.1: Google Developer Student Club Positions
-
-If the club is recognized as an official Google Developer Student Club chapter, the duties of the club officers will be expanded to include the following. The club officers will assume the following GDSC Team roles corresponding to their officer position:
-
--   Lead (President)
-    -   Serves as the primary contact between the GDSC Chapter and Google.
-    -   Responsible for overall strategic planning and club operations.
-    -   Represent the club in official capacities.
-    -   Oversee the general management of the club.
--   Co-Lead (Vice President)
-    -   Supports the Lead in their duties and steps in to take over when the Lead is unavailable.
-    -   Assist in strategic planning, coordination of events, and management of the club.
-    -   Organizes workshops and manages partnerships.
--   Finance Lead (Treasurer)
-    -   Manages all financial aspects of the club.
-    -   Prepare budgets, track expenses, lead fundraising efforts, and seek out sponsorship opportunities.
-    -   Ensure that the club complies with all financial regulations and reporting requirements.
--   Administrative Lead (Secretary)
-    -   Responsible for the internal operations of the club.
-        -   Meeting coordination
-        -   Record keeping
-        -   Communication within the club
-    -   They also work closely together with the Finance Lead on fundraising efforts.
--   Technical Lead (Webmaster)
-    -   Maintain the club's technical resources, such as the website and other apps
-    -   Lead technical workshops or sessions
-    -   Oversee projects, hackathons, or other technical events
--   Outreach Lead
-    -   Responsible for the club's external relations
-        -   Partnerships
-        -   Sponsorships
-        -   Community Engagement
-    -   They may also handle public relations, marketing, and social media.
-    -   They work closely with the Administrative Lead on event planning and execution.
+-   Presidential Advisor
+    -   This position is optional. If it is not filled, the duties will be split between the cabinet members. Any financial related duties will be given to the treasurer. Otherwise, the duties will be given to the vice president and/or secretary.
+    -   This role is used when a previous president wishes to step down after the academic year but before they graduate due to early graduation
+    -   Responsible for helping split up work with president and vice president
 
 #### Article 6: Elections
 
