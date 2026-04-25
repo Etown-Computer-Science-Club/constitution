@@ -48,11 +48,16 @@ No dues shall be issued unless the budget does not cover expenses. The current a
 -   Webmaster/ Technical Lead
     -   This position is optional. If it is not filled, the duties will be given to the secretary.
     -   If the club has a website then the webmaster is in charge of updating it with upcoming event information and any other information that is deemed relevant.
+
 -   Outreach Lead
     -   This position is optional. If it is not filled, the duties will be split between the cabinet members. Any financial related duties will be given to the treasurer. Otherwise, the duties will be given to the vice president and/or secretary.
     -   Reaching out to companies and other organizations to find potential speakers, sponsors, and judges for club events.
+
+-   Social Media Lead
+    -   This position is optional. If it is not filled, the duties will be split between the cabinet members. Any outside of Etown College related duties will be given to the outreach lead. Otherwise, the duties will be given to the vice president and/or secretary.
     -   Utilize social media to highlight upcoming club events and showcase our recent activities.
     -   Posting flyers around campus for club events.
+
 -   Presidential Advisor
     -   This position is optional. If it is not filled, the duties will be split between the cabinet members. Any financial related duties will be given to the treasurer. Otherwise, the duties will be given to the vice president and/or secretary.
     -   This role is used when a previous president wishes to step down after the academic year but before they graduate due to early graduation
